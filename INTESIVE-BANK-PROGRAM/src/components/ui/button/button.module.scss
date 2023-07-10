@@ -15,6 +15,7 @@
 		cursor: not-allowed;
 		pointer-events: none;
 	}
+
 	&:hover {
 		background-color: lighten($gray, 3%);
 	}
